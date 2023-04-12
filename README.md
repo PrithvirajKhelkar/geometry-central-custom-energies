@@ -1,3 +1,5 @@
+# Adding Custom Alignment energies to Geometry Central Directional Fields
+
 # Documentation is hosted at [geometry-central.net](http://geometry-central.net)
 ---
 
